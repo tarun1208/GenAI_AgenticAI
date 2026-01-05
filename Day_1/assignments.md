@@ -74,8 +74,3 @@ Write a short reflection (150–200 words):
 * Real-world relevance
 * Originality of explanation
 
----
-
-## Deadline
-
-Submit before the start of **Day 2 session**.
